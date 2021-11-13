@@ -1,7 +1,7 @@
-class abc
+class printusername
 {
-    public void disp(string args[])
+    public static void main(String args[])
     {
-        system.out.println("My username is : Dipraman");
+        System.out.println("My username is : Dipraman");
     }
 }
